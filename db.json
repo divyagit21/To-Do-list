@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "3",
+      "text": "text3",
+      "day": "day3",
+      "remainder": true
+    },
+    {
+      "id": "0a01",
+      "text": "test5",
+      "day": "day5",
+      "remainder": true
+    },
+    {
+      "id": "d08b",
+      "text": "text6",
+      "day": "day6",
+      "remainder": true
+    },
+    {
+      "id": "81e9",
+      "text": "text3",
+      "day": "wednesday",
+      "remainder": true
+    }
+  ]
+}
